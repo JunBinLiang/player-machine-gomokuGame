@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/player-machine-gomokuGame/static/css/main.25635d13.chunk.css",
-    "main.js": "/player-machine-gomokuGame/static/js/main.1ae55762.chunk.js",
-    "main.js.map": "/player-machine-gomokuGame/static/js/main.1ae55762.chunk.js.map",
-    "runtime~main.js": "/player-machine-gomokuGame/static/js/runtime~main.5ed0d268.js",
-    "runtime~main.js.map": "/player-machine-gomokuGame/static/js/runtime~main.5ed0d268.js.map",
-    "static/js/2.44361bd4.chunk.js": "/player-machine-gomokuGame/static/js/2.44361bd4.chunk.js",
-    "static/js/2.44361bd4.chunk.js.map": "/player-machine-gomokuGame/static/js/2.44361bd4.chunk.js.map",
-    "index.html": "/player-machine-gomokuGame/index.html",
-    "precache-manifest.d35fe694f59db1ebee0416e7603fdf0d.js": "/player-machine-gomokuGame/precache-manifest.d35fe694f59db1ebee0416e7603fdf0d.js",
-    "service-worker.js": "/player-machine-gomokuGame/service-worker.js",
-    "static/css/main.25635d13.chunk.css.map": "/player-machine-gomokuGame/static/css/main.25635d13.chunk.css.map",
-    "static/media/logo.svg": "/player-machine-gomokuGame/static/media/logo.5d5d9eef.svg"
+    "main.css": "/JunBinLiang/player-machine-gomokuGame/static/css/main.25635d13.chunk.css",
+    "main.js": "/JunBinLiang/player-machine-gomokuGame/static/js/main.0c2d508e.chunk.js",
+    "main.js.map": "/JunBinLiang/player-machine-gomokuGame/static/js/main.0c2d508e.chunk.js.map",
+    "runtime~main.js": "/JunBinLiang/player-machine-gomokuGame/static/js/runtime~main.521d4663.js",
+    "runtime~main.js.map": "/JunBinLiang/player-machine-gomokuGame/static/js/runtime~main.521d4663.js.map",
+    "static/js/2.44361bd4.chunk.js": "/JunBinLiang/player-machine-gomokuGame/static/js/2.44361bd4.chunk.js",
+    "static/js/2.44361bd4.chunk.js.map": "/JunBinLiang/player-machine-gomokuGame/static/js/2.44361bd4.chunk.js.map",
+    "index.html": "/JunBinLiang/player-machine-gomokuGame/index.html",
+    "precache-manifest.9b6da82a0eccca7ecf953fde979be873.js": "/JunBinLiang/player-machine-gomokuGame/precache-manifest.9b6da82a0eccca7ecf953fde979be873.js",
+    "service-worker.js": "/JunBinLiang/player-machine-gomokuGame/service-worker.js",
+    "static/css/main.25635d13.chunk.css.map": "/JunBinLiang/player-machine-gomokuGame/static/css/main.25635d13.chunk.css.map",
+    "static/media/logo.svg": "/JunBinLiang/player-machine-gomokuGame/static/media/logo.5d5d9eef.svg"
   }
 }
