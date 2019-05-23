@@ -1,0 +1,40 @@
+.blackCircle{
+	background: black;
+	border-radius: 50%;
+	width:22px;
+	height:22px;
+	margin-top:2.5px;
+	margin-left:2.5px;
+
+}
+
+.redCircle{
+	background: red;
+	border-radius: 50%;
+	width:22px;
+	height:22px;
+	margin-top:2.5px;
+	margin-left:2.5px;
+
+}
+
+.chess{
+	
+	width: 30px;
+	height: 30px;
+    background-color:white;
+    border: 2.5px solid black;
+}
+
+.chess:hover{
+	
+	cursor:pointer;
+	background-color:beige;
+	opacity: 0.7;
+	margin-top:0.7px;
+}
+
+.chess:active{
+		margin-top:0.8px;
+
+}
