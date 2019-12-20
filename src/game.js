@@ -1549,7 +1549,9 @@ class game extends Component
 			     {displayChess}
 			   </div>
 				<button onClick={this.reset}>Play Again!</button>   
-			    <p style={{textAlign:'center'}}>JunBin Create</p>
+			    <a href="https://www.linkedin.com/in/junbin-liang-482556176/" style={{textAlign:'center'}}>JunBin+</a>
+			    <a href="https://www.linkedin.com/in/jiewen-ying-844815165/" style={{textAlign:'center'}}>JieWen Create</a>
+			   
 		  </div>	
 		);
 		
